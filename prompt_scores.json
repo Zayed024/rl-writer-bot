@@ -1,0 +1,22 @@
+{
+    "descriptive_evocative": {
+        "template": "Rewrite the following text, making it more vivid, descriptive, and emotionally resonant. Focus on sensory details and evocative language. Maintain the core narrative.\n\n",
+        "score": 2.1900000000000004
+    },
+    "concise_direct": {
+        "template": "Condense and clarify the following text, making it more concise and direct. Remove unnecessary words while preserving all essential information.\n\n",
+        "score": 1.0
+    },
+    "formal_academic": {
+        "template": "Rewrite the following text into a formal and academic style. Use precise terminology and a neutral, objective tone. Avoid colloquialisms.\n\n",
+        "score": 1.0
+    },
+    "generated_prompt_afe23a1d": {
+        "template": "Infuse this opening with the raw, visceral immediacy of Hemingway, capturing both the stark beauty of the setting and the protagonist's quiet, underlying dread.  Minimize adverbs and prioritize strong verbs.  Every word should contribute to the atmosphere of both paradise and premonition.\n\n",
+        "score": 0.0
+    },
+    "generated_prompt_2c541acc": {
+        "template": "Infuse this opening chapter with the raw, visceral immediacy of Hemingway, capturing both the stark beauty of the setting and the protagonist's quiet, desperate urgency.  Minimize adverbs and maximize impactful verbs.  Every word should earn its place.\n\n",
+        "score": 0.0
+    }
+}

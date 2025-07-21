@@ -1,0 +1,13 @@
+playwright
+google-generativeai
+chromadb
+markdown
+typer
+chromadb
+gtts
+pydub
+python-vlc
+python-Levenshtein
+asyncio
+streamlit
+#vlc media player for audio playback
